@@ -1,17 +1,22 @@
 ---
-layout: default
-title: Student Blog
+title: ꒷꒦꒷꒦꒷꒦꒷꒦꒷꒦꒷
+description: website about me!
 ---
+<center><span> style= “color: #e4717a;font-weight:500;font-size:28px”>
+All about Sahana 
+</span></center>
 
+<span style=”color:#8fa479;font-weight:350;font-size:17px”>
+My name is Sahana and I am 14 years old. I am a freshman at Del Norte High School. My hobbies and interests consist of…
+Music
+The beach
+Lacrosse 
+Sleeping 
+Eating chipotle and starbucks 
+Fashion 
+</span>
 
-## Build you Home Page here 
-This is about your journey. Start now!!!
+I decided to take computer science to discover something new. I think that technology is the future, so taking a course on it could be important knowledge. 
 
-## Overview of Hacks, Study and Tangibles
-Blogging in GitHub pages is a way to learn and code at the same time. 
-
-- Plans, Lists, [Scrum Boards](https://clickup.com/blog/scrum-board/) help you to track key events, show progress and record time.  Effort is a big part of your class grade.  Show plans and time spent!
-- [Hacks(Todo)](https://levelup.gitconnected.com/six-ultimate-daily-hacks-for-every-programmer-60f5f10feae) enable you to stay in focus with key requirements of the class.  Each Hack will produce Tangibles.
-- Tangibles or [Tangible Artifacts](https://en.wikipedia.org/wiki/Artifact_(software_development)) are things you accumulate as a learner and coder. 
 
 
